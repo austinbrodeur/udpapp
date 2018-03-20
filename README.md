@@ -1,2 +1,2 @@
 # udpapp
-UDP webclient/server program
+UDP webclient program
